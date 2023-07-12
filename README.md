@@ -1,5 +1,6 @@
 # PowerBI_Dashboard
 Created Attractive Dashboard using powerBI for sales Analysis.
+
 SALES ANALYSIS PROJECT WITH POWER BI.
 
 --> In this project I have to used the Sales Data and analysis the Sales for last two year on the basis of this Datasets and finally visualize the data in Attractive Dashboard with the help of the Microsoft POWER BI tool.
